@@ -1,0 +1,25 @@
+[{
+    "title": "Malta to Amsterdam",
+    "status": "ON TIME",
+    "time": "08:45"
+}, {
+    "title": "Malta to London",
+    "status": "DELAYED",
+    "time": "09:45"
+}, {
+    "title": "Malta to Poznan",
+    "status": "ON TIME",
+    "time": "10:00"
+}, {
+    "title": "Malta to London",
+    "status": "ON TIME",
+    "time": "11:45"
+}, {
+    "title": "Malta to Rome",
+    "status": "ON TIME",
+    "time": "12:05"
+}, {
+    "title": "Malta to Paris",
+    "status": "DELAYED",
+    "time": "12:35"
+}]
